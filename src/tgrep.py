@@ -16,12 +16,6 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with Tgrep.  If not, see <http://www.gnu.org/licenses/>.
-
-@author: Travis Patterson
-@contact: (reddit) Massless
-@contact: massless@unm.edu
-@contact: 505-459-4730
-@copyright: 2011
 '''
 
 import os
